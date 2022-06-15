@@ -50,3 +50,20 @@ char	*get_next_line(int fd)
 	left_str = ft_new_left_str(left_str);
 	return (line);
 }
+
+/*
+int main()
+{
+	char *str;
+	int i = open("txt", O_RDONLY);
+
+	str = "a";
+	// while in donebilmesi icin str ye deger verdik
+	// get_next_line dikrekt a'nin uzerine ekleyecek.
+	while (str)
+	{
+		str = get_next_line(i);
+		printf("%s", str);
+	}
+}
+*/
