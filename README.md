@@ -2,11 +2,11 @@
 
 
 AMAÇ
-~~~
-Dosyanın içindekileri, satır sartır argüman olarak başka bir dosyaya yazdırmak.
-~~~
-******
 
+
+Dosyanın içindekileri, satır sartır argüman olarak başka bir dosyaya yazdırmak.
+
+******
 static char                 --> bu değeri alan değişken, fonksiyon a değeri ile bitip tekrar başladığı zaman; ilk değerinden değil,
                             2. değerinden yani a değerinden devam eder.
 
