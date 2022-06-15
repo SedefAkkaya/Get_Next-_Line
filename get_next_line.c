@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sakkaya <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: sakkaya <sakkaya@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/19 16:34:13 by sakkaya           #+#    #+#             */
 /*   Updated: 2022/03/05 15:35:13 by sakkaya          ###   ########.fr       */
